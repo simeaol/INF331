@@ -29,6 +29,6 @@
 
 ## Diagrama de Interfaces
 
-> Imagem (`PNG`) do detalhamento de interfaces referentes aos componentes.
+![Interface de Componente](images/interface.png)
 
 <hr>
