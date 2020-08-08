@@ -9,13 +9,13 @@
 # Projeto Orange / Análise de Dados do Google PlayStore
 
 ## Imagem do Projeto
-> Coloque uma imagem da captura de tela com o projeto do Orange.
+![GooglePlay](images/googleplay.png)
 
 ## Arquivo do Projeto
-> Coloque um link para o arquivo em Orange.
+> [GooglePlay orange](orange/googleplay.ows).
 
 ## Gráfico(s) de Análise
-> Apresente a seguir o(s) gráfico(s) de análise produzidos (se houver) com legendas.
+![GooglePlay Review x Rating Graph](images/ratingXreview.png).
 
 # Projeto de Composição de Componentes para Recomendação
 
