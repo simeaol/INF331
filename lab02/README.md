@@ -1,6 +1,6 @@
 ## Tarefa sobre catálogo de componentes
 
-[Resolution] (notebook/components-01-catalog-resolution.ipynb)
+[Solução - Catálogo de Componentes](notebook/components-01-catalog-resolution.ipynb)
 
 ## Tarefa Web Components 1
 > Escreva aqui o código da sua composição de componentes Web, como mostra o exemplo a seguir:
