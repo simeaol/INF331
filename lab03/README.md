@@ -1,7 +1,6 @@
-## Tarefa 1
-> Coloque a imagem do PRNG do seu diagrama como ilustrado abaixo:
+## Tarefa 1 - Diagrama de Atividade
 > 
-> ![Diagrama de Orquestração](images/orquestracao.png)
+> ![Diagrama de Orquestração](images/tarefa1.png)
 
 ## Tarefa 2
 > Coloque a imagem do PNG do seu diagrama como ilustrado abaixo:
