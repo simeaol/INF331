@@ -10,3 +10,4 @@
  #### [Laboratório 1](lab01)
  #### [Laboratório 2](lab02)
  #### [Laboratório 3](lab03)
+ #### [Laboratório 4](lab04)
