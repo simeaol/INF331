@@ -3,6 +3,7 @@
 # **Tarefa 2**
 
 # **Tarefa 3**
+![Tarefa 3](images/Task3.png)
 
 # **Tarefa 4**
 
