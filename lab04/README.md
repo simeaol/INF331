@@ -1,6 +1,7 @@
 # **Tarefa 1**
 
 # **Tarefa 2**
+![Tarefa 2](images/Task2.png)
 
 # **Tarefa 3**
 ![Tarefa 3](images/Task3.png)
