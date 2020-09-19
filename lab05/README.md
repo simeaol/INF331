@@ -1,12 +1,20 @@
+# Tarefa 1
+
+![Tarefa 1](images/Task1.png)
 
 
-
-
-
+--
 
 # Tarefa 2
 
+*HTML*
 ```
+<div id="root"></div>
+```
+
+*Javascript*
+```
+
 import React from "react";
 
 class ComponentZero extends React.Component {
